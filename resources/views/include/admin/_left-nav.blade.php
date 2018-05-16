@@ -5,6 +5,9 @@
             <a class="am-cf" data-am-collapse="{target: '#home-nav'}"><span class="am-icon-home"></span> 网站管理 <span class="am-icon-angle-right am-fr am-margin-right"></span></a>
             <ul class="am-list am-collapse admin-sidebar-sub am-in" id="home-nav">
                 <li>
+                    <a href="/" target="_blank" class="am-cf"><span class="am-icon-umbrella"></span> 前台首页<span class="am-icon-star am-fr am-margin-right admin-icon-yellow"></span></a>
+                </li>
+                <li>
                     <a href="/admin/index" class="am-cf"><span class="am-icon-umbrella"></span> 后台首页<span class="am-icon-star am-fr am-margin-right admin-icon-yellow"></span></a>
                 </li>
             </ul>
